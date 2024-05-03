@@ -1,0 +1,22 @@
+{
+  "name": "learn_js",
+  "version": "1.0.0",
+  "description": "project_for_unit_test",
+  "main": "learn.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madina-DI/learn-javaScript.git"
+  },
+  "author": "Madina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madina-DI/learn-javaScript/issues"
+  },
+  "homepage": "https://github.com/Madina-DI/learn-javaScript#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
